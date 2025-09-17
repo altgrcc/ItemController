@@ -1,0 +1,18 @@
+{
+    "name": "express-item-controller",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "start": "node ./main.js"
+    },
+    "keywords": ["express", "nodejs", "rest", "api"],
+    "author": "Amada García",
+    "license": "",
+    "dependencies": {
+        "express": "^4.18.2"
+    },
+    "devDependencies": {
+        "express": "^5.0.1"
+    }
+}
